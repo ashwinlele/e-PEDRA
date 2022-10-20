@@ -23,4 +23,4 @@ PEDRA: Follow instructions at
 V2E: Follow instructions at
 E-PEDRA:
 
-Please contact Ashwin Lele (ashwinlele.2009@gatech.edu) for any queries. 
+Please contact Ashwin Lele (alele9@gatech.edu/ ashwinlele.2009@gmail.com) for any queries. 
