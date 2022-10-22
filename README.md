@@ -7,6 +7,8 @@ The simulators for robotic interactions with the environment operate in a frame-
 
 This work builds upon PEDRA (drone simulator in virtual environments) and augments it with v2e (frame-to-event conversion tool). 
 
+Address to the environment:
+
 Installation:
 The hardware requirements are similar to PEDRA. The software versions need to followed accurately to avoid version mismatch in python.
 
