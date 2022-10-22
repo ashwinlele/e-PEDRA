@@ -5,7 +5,7 @@ PEDRA augmented with event-based vision for hybrid event + frame processing appl
 The simulators for robotic interactions with the environment operate in a frame-based paradigm. Thus, only frame-based vision processing is available. Recently popular event sensors provide an asynchronous event streams instead of discrete frames. These are highly suited for high-speed and high dynamic range vision applications. However, emulating the event-based vision on closed-loop simulators requires integration of frame-to-event converters with conventional platforms. This work builds upon PEDRA (drone simulator in virtual environments) and augments it with v2e (frame-to-event conversion tool). 
 
 ## Installation
-The software setup requires conflicting environments for some modules within these environments. Thus, please follow the procedure outlined below to build it using Anaconda. The hardware requirements remains the same as PEDRA and v2e. Run the following commands to build mutually compatible python libraries.
+The software setup requires conflicting environments for some modules within these environments. Thus, please follow the procedure outlined below to build it using Anaconda. The hardware requirements remains the same as PEDRA and v2e. Run the following commands in anaconda prompt to build mutually compatible python libraries.
 
 Local PC configuration: Intel i9 Processor and NVIDIA Quadro RTX 4000 GPU, CUDA 11.2
 
